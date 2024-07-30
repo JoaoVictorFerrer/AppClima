@@ -16,6 +16,11 @@
     border-radius: 1rem;
 }
 
+.country:focus{
+    background-color: rgb(182, 182, 182,0.8)
+   
+}
+
 .field ::placeholder{
     color: var(--white);
 }
